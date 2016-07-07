@@ -476,65 +476,61 @@ D. RIGHT TO OPT OUT OF ARBITRATION AND CLASS ACTION/JURY TRIAL WAIVER.
 
 You may opt out of the foregoing arbitration and class action/jury trial waiver provision of this Agreement by notifying Upwork in writing within 30 days of the date you first registered for the Site.  To opt out, you must send a written notification to Upwork at Attn: Legal, 441 Logue Ave., Mountain View, CA 94043 that includes (a) your account username, (b) your name, (c) your address, (d) your telephone number, (e) your email address, and (f) a clear statement indicating that you do not wish to resolve claims through arbitration and demonstrating compliance with the 30-day time limit to opt out of the above arbitration and class action/jury trial waiver provisions. Alternatively or in addition, you may send this written notification to legalnotices@upwork.com.
 
-22.       GENERAL
+22. GENERAL
 
-22.1     ENTIRE AGREEMENT
+22.1 ENTIRE AGREEMENT
 
-This Agreement, together with the other Terms of Service, sets forth the entire agreement and understanding between you and Upwork relating to the subject matter hereof and thereof and cancels and supersedes any prior or contemporaneous discussions, agreements, representations, warranties, and other communications between you and us, written or oral, to the extent they relate in any way to the subject matter hereof and thereof. The section headings in this Agreement are included for ease of reference only and have no binding effect. Even though Upwork drafted this Agreement, you represent that you had ample time to review and decide whether to agree to the terms of this Agreement. If an ambiguity or question of intent or interpretation of this Agreement arises, no presumption or burden of proof will arise favoring or disfavoring you or Upwork because of the authorship of any provision of this Agreement.
+This Agreement, together with the other Terms of Service, sets forth the entire agreement and understanding between you and Upwork relating to the subject matter hereof and thereof and cancels and supersedes any prior or contemporaneous discussions, agreements, representations, warranties, and other communications between you and us, written or oral, to the extent they relate in any way to the subject matter hereof and thereof.  The section headings in the Terms of Service are included for ease of reference only and have no binding effect.  Even though Upwork drafted the Terms of Service, you represent that you had ample time to review and decide whether to agree to the Terms of Service.  If an ambiguity or question of intent or interpretation of the Terms of Service arises, no presumption or burden of proof will arise favoring or disfavoring you or Upwork because of the authorship of any provision of the Terms of Service.
 
-22.2     SIDE AGREEMENTS
+22.2 SIDE AGREEMENTS
 
-Notwithstanding subsection 22.1 (Entire Agreement), Clients and Freelancers may enter into any supplemental or other written agreements that they deem appropriate (e.g., confidentiality agreements, invention assignment agreements, assignment of rights, etc.). The terms and conditions of this Agreement, however, will govern and supersede any term or condition in a side agreement that purports to expand Upwork’s obligations or restrict Upwork’s rights under this Agreement.
+Notwithstanding subsection 22.1 (Entire Agreement), Clients and Freelancers may enter into any supplemental or other written agreements that they deem appropriate (e.g., confidentiality agreements, invention assignment agreements, assignment of rights, etc.).  The terms and conditions of the Terms of Service, however, will govern and supersede any term or condition in a side agreement that purports to expand Upwork’s obligations or restrict Upwork’s rights under the Terms of Service.
 
-22.3     COMPLIANCE
+22.3 COMPLIANCE
 
-User will not violate any applicable foreign, federal, state, or local laws or third-party rights on or related to the Site. Without limiting the generality of the foregoing, User agrees to comply with all applicable laws and regulations, including, but not limited to, import and export control laws and third parties’ Intellectual Property Rights.
+User will not violate any applicable foreign, federal, state, or local laws or third-party rights on or related to the Site.  Without limiting the generality of the foregoing, User agrees to comply with all applicable laws and regulations, including, but not limited to, import and export control laws and third parties’ Intellectual Property Rights.
 
-22.4     MODIFICATIONS
+22.4 MODIFICATIONS
 
-No modification or amendment to this Agreement will be binding upon Upwork unless in a written instrument signed by a duly authorized representative of Upwork. For the purposes of this subsection, a written instrument will expressly exclude electronic communications, such as email and electronic notices, but will include facsimiles. This Section 22.4 (Modifications) does not apply to amendments to this Agreement posted by Upwork to the Site from time to time.
+No modification or amendment to the Terms of Service will be binding upon Upwork unless in a written instrument signed by a duly authorized representative of Upwork.  For the purposes of this subsection, a written instrument will expressly exclude electronic communications, such as email and electronic notices, but will include facsimiles.  This Section 22.4 (Modifications) does not apply to amendments to the Terms of Service posted by Upwork to the Site from time to time.
 
-22.5     NO WAIVER
+22.5 NO WAIVER
 
 The failure or delay of either party to exercise or enforce any right or claim does not constitute a waiver of such right or claim and will in no way affect that party’s right to later enforce or exercise it, unless such party issues an express written waiver, signed by a duly authorized representative of such party.
 
-22.6     ASSIGNABILITY
+22.6 ASSIGNABILITY
 
-User may not assign this Agreement, or any of its rights or obligations hereunder, without Upwork’s prior written consent in the form of a written instrument signed by a duly authorized representative of Upwork (and, for the purposes of this subsection, a written instrument will expressly exclude electronic communications such as email and electronic notices, but will include facsimiles). Upwork may freely assign this Agreement without User’s consent. Any attempted assignment or transfer in violation of this subsection will be null and void. Subject to the foregoing restrictions, this Agreement will inure to the benefit of the successors and permitted assigns of the parties.
+User may not assign the Terms of Service, or any of its rights or obligations hereunder, without Upwork’s prior written consent in the form of a written instrument signed by a duly authorized representative of Upwork (and, for the purposes of this subsection, a written instrument will expressly exclude electronic communications such as email and electronic notices, but will include facsimiles).  Upwork may freely assign this Agreement or the other Terms of Service without User’s consent.  Any attempted assignment or transfer in violation of this subsection will be null and void.  Subject to the foregoing restrictions, the Terms of Service will inure to the benefit of the successors and permitted assigns of the parties.
 
-22.7     SEVERABILITY
+22.7 SEVERABILITY
 
-If and to the extent any provision of this Agreement is held illegal, invalid, or unenforceable in whole or in part under applicable law, such provision or such portion thereof will be ineffective as to the jurisdiction in which it is illegal, invalid, or unenforceable to the extent of its illegality, invalidity, or unenforceability and will be deemed modified to the extent necessary to conform to applicable law so as to give the maximum effect to the intent of the parties. The illegality, invalidity, or unenforceability of such provision in that jurisdiction will not in any way affect the legality, validity, or enforceability of such provision in any other jurisdiction or of any other provision in any jurisdiction.
+If and to the extent any provision of this Agreement or the other Terms of Service is held illegal, invalid, or unenforceable in whole or in part under applicable law, such provision or such portion thereof will be ineffective as to the jurisdiction in which it is illegal, invalid, or unenforceable to the extent of its illegality, invalidity, or unenforceability and will be deemed modified to the extent necessary to conform to applicable law so as to give the maximum effect to the intent of the parties.  The illegality, invalidity, or unenforceability of such provision in that jurisdiction will not in any way affect the legality, validity, or enforceability of such provision in any other jurisdiction or of any other provision in any jurisdiction.
 
-22.8     FORCE MAJEURE
+22.8 FORCE MAJEURE
 
-The parties to this Agreement will not be responsible for the failure to perform or any delay in performance of any obligation hereunder due to labor disturbances, accidents, fires, floods, telecommunications or Internet failures, strikes, wars, riots, rebellions, blockades, acts of government, governmental requirements and regulations or restrictions imposed by law or any other similar conditions beyond the reasonable control of such party. The time for performance of such party will be extended by the period of such delay. Irrespective of any extension of time, if an event of Force Majeure occurs and its effect continues for a period of 60 days, either the party may give to the other a 30-day notice of termination. If, at the end of the 30 day period, the effect of the Force Majeure continues, the Agreement will terminate.
+The parties to this Agreement will not be responsible for the failure to perform or any delay in performance of any obligation hereunder due to labor disturbances, accidents, fires, floods, telecommunications or Internet failures, strikes, wars, riots, rebellions, blockades, acts of government, governmental requirements and regulations or restrictions imposed by law or any other similar conditions beyond the reasonable control of such party.  The time for performance of such party will be extended by the period of such delay.  Irrespective of any extension of time, if an event of Force Majeure occurs and its effect continues for a period of 60 days, either the party may give to the other a 30-day notice of termination.  If, at the end of the 30 day period, the effect of the Force Majeure continues, the Agreement and the other Terms of Service will terminate, except as provided in Section 20.3.
 
-22.9   PREVAILING LANGUAGE AND LOCATION
+22.9 PREVAILING LANGUAGE AND LOCATION
 
-The English language version of this Agreement will be controlling in all respects and will prevail in case of any inconsistencies with translated versions, if any. The Site is controlled and operated from our facilities in the United States. Upwork makes no representations that the Site is appropriate or available for use in other locations. Those who access or use the Site from other jurisdictions do so at their own volition and are entirely responsible for compliance with all applicable foreign, United States, state, and local laws and regulations, including, but not limited to, export and import regulations, including the Export Administration Regulations maintained by the United States Department of Commerce and the sanctions programs maintained by the Department of the Treasury Office of Foreign Assets Control. You must not directly or indirectly sell, export, re-export, transfer, divert, or otherwise dispose of any software or service to any end user without obtaining any and all required authorizations from the appropriate government authorities. You also warrant that you are not prohibited from receiving U.S. origin products, including services or software. You may not use or access the Site if you are: (a) a resident of a geographic area embargoed by the United States; (b) subject to United States economic sanctions that prohibit your use or access to the Site; or (c) a foreign person or entity blocked or denied by the United States government. Unless otherwise explicitly stated, all materials found on the Site are solely directed to individuals, companies, or other entities located in the United States.
+The English language version of the Terms of Service will be controlling in all respects and will prevail in case of any inconsistencies with translated versions, if any.  The Site is controlled and operated from our facilities in the United States.  Upwork makes no representations that the Site is appropriate or available for use in other locations.  Those who access or use the Site from other jurisdictions do so at their own volition and are entirely responsible for compliance with all applicable foreign, United States, state, and local laws and regulations, including, but not limited to, export and import regulations, including the Export Administration Regulations maintained by the United States Department of Commerce and the sanctions programs maintained by the Department of the Treasury Office of Foreign Assets Control.  You must not directly or indirectly sell, export, re-export, transfer, divert, or otherwise dispose of any software or service to any end user without obtaining any and all required authorizations from the appropriate government authorities.  You also warrant that you are not prohibited from receiving U.S. origin products, including services or software. You may not use or access the Site if you are: (a) a resident of a geographic area embargoed by the United States; (b) subject to United States economic sanctions that prohibit your use or access to the Site; or (c) a foreign person or entity blocked or denied by the United States government.  Unless otherwise explicitly stated, all materials found on the Site are solely directed to individuals, companies, or other entities located in the United States.
 
-22.10   COMMUNICATIONS FROM YOU TO UPWORK
-
-All notices to Upwork or our Affiliates intended to have a legal effect must be in writing and delivered either (a) in person; (b) by a means evidenced by a delivery receipt, to the following address: Attn: Legal, 441 Logue Ave., Mountain View, CA 94043; or (c) in writing via email to legalnotices@upwork.com. All such notices are deemed effective upon receipt by Upwork. Upwork does not accept service of any legal process by email or mail; all such service should occur by hand delivery on Upwork or its registered agent for service of process.
-
-23.       DEFINITIONS
+23. DEFINITIONS
 
 “Affiliate” means any entity that, directly or indirectly, through one or more intermediaries, controls, is controlled by, or is under common control with Upwork.
 
-“Client” means any authorized User utilizing the Site to seek and/or obtain Freelancer Services from another User. From time to time, Upwork may act as a Client, and the terms and conditions of this Agreement applicable to Clients will apply to Upwork when Upwork acts in this way.
+“Client” means any authorized User utilizing the Site to seek and/or obtain Freelancer Services from another User.  From time to time, Upwork may act as a Client, and the terms and conditions of this Agreement applicable to Clients will apply to Upwork when Upwork acts in this way.
 
 “Client Deliverables” means requests, intellectual property, and any other information or materials that a Freelancer receives from a Client to perform Freelancer Services.
 
-“Confidential Information” means Client Deliverables, Freelancer Deliverables, Work Product, and any other information provided to, or created by, a User for a Service Contract or to perform or assist in performing Freelancer Services, regardless of whether in tangible, electronic, verbal, graphic, visual, or other form. Confidential Information does not include material or information that: (a) is generally known by third parties as a result of no act or omission of Freelancer or Client; (b) subsequent to disclosure hereunder, was lawfully received without restriction on disclosure from a third party having the right to disseminate the information; (c) was already known by User prior to receiving it from the other party and was not received from a third party in breach of that third party’s obligations of confidentiality; or (d) was independently developed by User without use of another person’s Confidential Information.
-
-“Fixed-Price Contract” means a Service Contract for which Client is charged a fixed fee agreed between a Client and a Freelancer, prior to the commencement of a Service Contract, for the completion of all Freelancer Services contracted by Client for such Service Contract.
+“Confidential Information” means Client Deliverables, Freelancer Deliverables, Work Product, and any other information provided to, or created by, a User for a Service Contract or to perform or assist in performing Freelancer Services, regardless of whether in tangible, electronic, verbal, graphic, visual, or other form.  Confidential Information does not include material or information that: (a) is generally known by third parties as a result of no act or omission of Freelancer or Client; (b) subsequent to disclosure hereunder, was lawfully received without restriction on disclosure from a third party having the right to disseminate the information; (c) was already known by User prior to receiving it from the other party and was not received from a third party in breach of that third party’s obligations of confidentiality; or (d) was independently developed by User without use of another person’s Confidential Information.
 
 “Engagement” means an engagement for Freelancer Services that a Freelancer provides to a Client under a Service Contract on the Site.
 
 “Escrow Account” means Client Escrow Account, Freelancer Escrow Account, or Fixed-Price Escrow Account.
 
-“Escrow Instructions” means the Fixed-Price Escrow Instructions, the Hourly, Bonus and Expense Payment Agreement with Escrow Instructions, or the Fixed-Price Mobile Escrow Instructions.
+“Escrow Instructions” means the Fixed-Price Escrow Instructions or the Hourly, Bonus and Expense Payment Agreement with Escrow Instructions.
+
+“Fixed-Price Contract” means a Service Contract for which Client is charged a fixed fee agreed between a Client and a Freelancer, prior to the commencement of a Service Contract, for the completion of all Freelancer Services contracted by Client for such Service Contract.
 
 “Freelancer” means any authorized User utilizing the Site to advertise and provide Services to Clients.
 
@@ -548,24 +544,22 @@ All notices to Upwork or our Affiliates intended to have a legal effect must be 
 
 “Intellectual Property Rights” means all patent rights, copyright rights, mask work rights, moral rights, rights of publicity, trademark, trade dress and service mark rights, goodwill, trade secret rights and other intellectual property rights as may now exist or hereafter come into existence, and all applications therefore and registrations, renewals and extensions thereof, under the laws of any state, country, territory or other jurisdiction.
 
-“Upwork Team Software” means the online platform accessed using Upwork’s downloaded team software that enables time tracking and invoicing, chat, and screenshot sharing with other Users.
-
 “Payment Method” means a valid credit card issued by a bank acceptable to Upwork, a bank account linked to your Account, a PayPal account, a debit card, or such other method of payment as Upwork may accept from time to time in our sole discretion.
 
 “Payroll Employee” means a Freelancer enrolled in Upwork Payroll, accepted for employment by a Staffing Provider, and assigned by the Staffing Provider to provide Freelancer Services to one or more Client(s).
 
 “Service Contract” means, as applicable, (a) the contractual provisions between a Client and a Freelancer governing the Freelancer Services to be performed by a Freelancer for Client for an Engagement; or (b) if you use Upwork Payroll, the contractual provisions between Freelancer and the Staffing Provider for the provision of services to Client, if any; and, in each case, the additional agreements referenced in Section 5.1 (Service Contracts).
 
-“Site Services” means all services that are accessible through the Site.
-
-“Substantial Change” means a change to the terms of this Agreement that reduces your rights or increases your responsibilities.
+“Substantial Change” means a change to the terms of the Terms of Service that reduces your rights or increases your responsibilities.
 
 “Time Logs” means the report of hours recorded for a stated period by a Freelancer for the Freelancer Services performed for a Client.
 
-“Work Product” means any tangible or intangible results or deliverables that Freelancer agrees to create for, or actually delivers to, Client as a result of performing the Freelancer Services, including, but not limited to, configurations, computer programs, or other information, or customized hardware, and any intellectual property developed in connection therewith.
+“Upwork Team Software” means the online platform accessed using Upwork’s downloaded team software that enables time tracking and invoicing, chat, and screenshot sharing with other Users.
 
 “User Content” means any data, feedback, content, text, photographs, images, video, music, or other information that you post to any part of the Site or provide to Upwork.
 
-24.       CONTACTING US
+“Work Product” means any tangible or intangible results or deliverables that Freelancer agrees to create for, or actually delivers to, Client as a result of performing the Freelancer Services, including, but not limited to, configurations, computer programs, or other information, or customized hardware, and any intellectual property developed in connection therewith.
 
-If you have questions or need assistance, please contact Customer Support at https://support.upwork.com
+24. CONTACTING US
+
+If you have questions or need assistance, please contact Customer Support.
