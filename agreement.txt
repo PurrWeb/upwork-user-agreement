@@ -76,21 +76,21 @@ Upwork does not investigate any remarks posted by Users for accuracy or reliabil
 
 4. PURPOSE OF THE SITE AND SITE SERVICES
 
-The Site is a marketplace where Clients and Freelancers can identify each other and buy and sell Freelancer Services online. Subject to the terms of this Agreement, Upwork provides the Site Services to Clients and Freelancers, including hosting and maintaining the Site, enabling the formation of Service Contracts, and coordinating disputes related to those Service Contracts. If a Client and Freelancer agree on terms for Freelancer Services, a Service Contract is formed directly between such Client and Freelancer, subject to the provisions set forth in Section 5 (Contractual Relationship Between Client and Freelancer) unless you are enrolled in Upwork Payroll. When a User enters a Service Contract, the User uses the Site to engage, communicate, invoice and pay online.
+The Site is a marketplace where Clients and Freelancers can identify each other and advertise, buy, and sell Freelancer Services online.  Subject to the Terms of Service, Upwork provides the Site Services to Users, including hosting and maintaining the Site, enabling the formation of Service Contracts, and coordinating disputes related to those Service Contracts.  If Users agree on terms for Freelancer Services, a Service Contract is formed directly between such Users, subject to the provisions set forth in Section 5 (Contractual Relationship Between Client and Freelancer), unless you are enrolled in Upwork Payroll.  When a User enters a Service Contract, the User uses the Site to engage, communicate, invoice and pay online.
 
 4.1 ESCROW ACCOUNTS
 
-EEC provides escrow services to Clients and Freelancers to deliver, hold, or receive payment for an Engagement, and to make payments to Upwork (“Escrow Services”). EEC is Delaware corporation and a licensed Internet escrow agent and holds California Department of Business Oversight License No. 963 5086. The Escrow Services are intended for business use, so you agree to use the Escrow Services for business purposes and not for consumer, personal, family, or household purposes.
+EEC provides escrow services to Users to deliver, hold, or receive payment for an Engagement, and to pay service, membership and payment processing and administration fees to Upwork (“Escrow Services”).  EEC is a Delaware corporation and a licensed Internet escrow agent and holds California Department of Business Oversight License No. 963 5086.  The Escrow Services are intended for business use, so you agree to use the Escrow Services only for business purposes and not for consumer, personal, family, or household purposes.
 
-Depending on your needs and the instructions provided to Upwork, EEC will establish and maintain one of three different types of Escrow Accounts, subject to the applicable Escrow Agreement:
+Depending on your needs and the applicable Escrow Instructions, EEC will establish and maintain one of three different types of Escrow Accounts, subject to the applicable Escrow Agreement:
 
-(a) Client Escrow Account. After entering into a Service Contract, the first time a Client makes a payment for an Engagement, EEC will establish and maintain a “Client Escrow Account” to hold funds for the Client to use to make payments for Engagements, to receive refunds in connection with Engagements, and to make payments to Upwork.
+(a)  Client Escrow Account.  After entering into a Service Contract, the first time a Client makes a payment for an Engagement, EEC will establish and maintain a “Client Escrow Account” to hold funds for the Client to use to make payments for Engagements, to receive refunds in connection with Engagements, and to make payments to Upwork for payment processing and administration fees.
 
-(b) Freelancer Escrow Account. After entering into a Service Contract, the first time Freelancer uses the Site to receive payment for an Engagement, EEC will establish and maintain a “Freelancer Escrow Account” for the Freelancer to receive payments for Engagements, withdraw payments, make monthly membership payments to Upwork, and issue refunds to Clients.
+(b)  Freelancer Escrow Account.  After entering into a Service Contract, the first time a Freelancer uses the Site to receive payment for an Engagement, EEC will establish and maintain a “Freelancer Escrow Account” for the Freelancer to receive payments for Engagements, withdraw payments, make monthly membership payments and service fees to Upwork, and issue refunds to Clients.
 
-(c) Fixed-Price Escrow Account. When you enter into a Fixed-Price Contract, EEC will establish and maintain a “Fixed-Price Escrow Account” to receive, hold, and release payments pursuant to the Fixed-Price Escrow Instructions for the Engagement that is the subject of that Service Contract.
+(c)  Fixed-Price Escrow Account.  When you enter into a Fixed-Price Contract, EEC will establish and maintain a “Fixed-Price Escrow Account” to receive, hold, and release payments pursuant to the Fixed-Price Escrow Instructions for the Engagement that is the subject of that Service Contract.
 
-You hereby authorize and instruct EEC to act as escrow agent in connection with the Escrow Accounts and the payment, holding, and receipt of funds for each Engagement and other specified purposes (the “Escrow”) in accordance with this Agreement and the applicable Escrow Instructions.
+You hereby authorize and instruct EEC to act as escrow agent in connection with the Escrow Accounts and the payment, holding, and receipt of funds for each Engagement and other specified purposes (the “Escrow”) in accordance with the Terms of Service and the applicable Escrow Instructions.
 
 5. CONTRACTUAL RELATIONSHIP BETWEEN CLIENT AND FREELANCER
 
